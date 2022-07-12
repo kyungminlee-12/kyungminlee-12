@@ -22,7 +22,7 @@
 
 ### 📫 How to reach me 📫
 <a href="https://www.instagram.com/ky_minni" target="_blank"><img src="https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:min2000.lee@gmail.com)](mailto:snugyun01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:min2000.lee@gmail.com)](mailto:min2000.lee@gmail.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungminlee-12&show_icons=true&theme=radical)
